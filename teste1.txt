@@ -1,0 +1,6 @@
+Análise da Situação e Legalidade
+A sua situação envolve um conflito entre a instrução de uma colega (baseada num histórico de furto) e a diretiva do seu chefe, que está mais alinhada com a lei.
+1. A Instrução da Funcionária (Ilegal)
+O que a funcionária lhe pediu para fazer — seguir cada passo de um cliente pelas câmaras apenas por ter furtado no passado — é, à luz da lei de proteção de dados e da segurança privada em Portugal, ilegal.
+Princípio da Proporcionalidade: A lei exige que a vigilância seja necessária e proporcionada para o fim a que se destina (proteção de bens). Filmar cada passo de um cliente unicamente com base num incidente passado e sem qualquer suspeita atual e concreta viola o direito à privacidade desse indivíduo.
+Discriminação/Assunção de Culpa: Um cliente, mesmo com um histórico de furto, deve ser tratado como qualquer outro cliente independente enquanto não houver um novo indício de ilícito. A vigilância preventiva e constante seria considerada excessiva e discriminatória.
